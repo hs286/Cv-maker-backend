@@ -1,0 +1,15 @@
+export enum IndividualServices {
+  BespokeCV = 'Bespoke CV',
+  CoverLetter = 'Cover Letter',
+  LinkedInOptimisation = 'LinkedIn Optimisation',
+  ApplyMate = 'ApplyMate',
+  CVCirculation = 'CV Circulation',
+  InterviewPreparation = 'Interview Preparation',
+  CareerCoaching = 'Career Coaching',
+  PersonalStatement60 = 'Personal Statement (Under 1,000 words)',
+  PersonalStatement90 = 'Personal Statement (Over 1,000 words)',
+  BespokePresentation = 'Bespoke Presentation',
+  PresentationDesign = 'Presentation Design',
+  ProApply = 'Pro Apply',
+  CVReOptimisation = 'CV Re-Optimisation',
+}
